@@ -1,0 +1,66 @@
+# Compiled binary files
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+
+# Visual Studio files
+.vs/
+
+# Build results
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Generated files
+*.g.*
+*.gen.cs
+*.AssemblyAttributes.cs
+
+# Environment settings
+.env
+.env.*
+
+# Database files
+*.mdf
+*.ldf
+
+# ASP.NET Core configuration
+appsettings.Development.json
+
+# Package directories
+**/node_modules/
+**/bower_components/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+desktop.ini
+
+# JetBrains Rider files
+.idea/
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# NPM Debug
+npm-debug.log*
+
+# StyleCop
+StyleCopReport.xml
+
+# Dependency directories
+packages/
